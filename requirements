@@ -1,0 +1,5 @@
+sqlalchemy
+flask
+flask-wtf
+flask-restful
+flask-login
